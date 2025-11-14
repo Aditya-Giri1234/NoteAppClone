@@ -20,9 +20,16 @@ This is a **Note App Clone** built with **Java Swing**, inspired by the classic 
 - **Swing**: Java’s built-in GUI toolkit for building the user interface.
 - **Swing Components**: Used to implement buttons, text areas, menus, and more.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/af1d1d68-439c-43e0-a144-e500943cd899
+
+
 ## Installation
 
 1. **Clone this repository**:
 
    ```bash
    git clone https://github.com/Aditya-Giri1234/NoteAppClone.git
+2. **Should have installed Java 17 or above in the device**
